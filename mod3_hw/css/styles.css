@@ -1,0 +1,19 @@
+.navbar-nav {
+	background-color: #d9edf7;
+}
+
+.row {
+    background-color: linen;
+}
+
+
+.container-fluid {
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 25px;
+}
+
+#navbar {
+  margin-left: 10px;
+  margin-right: 10px;
+}
